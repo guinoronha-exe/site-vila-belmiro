@@ -5,13 +5,15 @@ Um projeto educacional de um site básico sobre um pedaço da história da Vila 
 
 ## Tecnologias
 
-HTML, CSS e JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Como rodar
 
-1.Clone o repositório
+1. Clone o repositório
 
-2.Abra o index.html com seu navegador.
+2. Abra o 'index.html' com seu navegador.
 
 ## O que eu fiz
 
