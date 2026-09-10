@@ -4,12 +4,17 @@ Um projeto educacional de um site básico sobre um pedaço da história da Vila 
 
 #Tecnologias
 
-Nesse projeto, usei as linguagens CSS e JS.
+Nesse projeto, usei as linguagens HTML, CSS e JavaScript.
 
 #Como rodar
 
-Baixe o projeto completo em sua máquina numa pasta a parte, após isso basta abrir o index.html que está dentro da pasta HTML que irá abrir uma página do projeto.
+1.Clone o repositório
+2.Abra o index.html com seu navegador.
 
 #O que eu fiz
 
-Esse projeto por ser educacional inicialmente foi repassado um modelo genérico como base, eu adaptei e mudei os layouts, as imagens, as descrições e algumas ideias a mais como o botão conhecer, padronizei as cores do clube
+Esse projeto por ser educacional inicialmente foi repassado um modelo genérico como base, alterei os layouts, as imagens, as descrições, botão conhecer, padronizei as cores do clube.
+
+#Status
+
+Projeto concluido. Matéria: Desenvolvimento Front-End Para Web do 2º Semestre.
